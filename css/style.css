@@ -22,6 +22,11 @@ header {
 body{
 
   font-family: "Mulish", serif;
+  
+  background-image: url('../images2/foto\ atrio\ 2.jpg'); /* Ruta relativa */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 footer {
    
